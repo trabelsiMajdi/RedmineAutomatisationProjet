@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Projet_RedmineSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Projet_RedmineTest(failed)">
+    <classes>
+      <class name="testCases.TC_05_Copier_ProjetRedmine">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="test_Modifier"/>
+        </methods>
+      </class> <!-- testCases.TC_05_Copier_ProjetRedmine -->
+      <class name="testCases.TC_01_EnregistrerNouveauCompte">
+        <methods>
+          <include name="setup"/>
+          <include name="test_Enregistrer_NouveauCompte"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC_01_EnregistrerNouveauCompte -->
+      <class name="testCases.TC_03_CreationNouveauProjet_Redmine">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="test_NouveauProjet"/>
+        </methods>
+      </class> <!-- testCases.TC_03_CreationNouveauProjet_Redmine -->
+      <class name="testCases.TC_04_Modifier_ProjetRedmine">
+        <methods>
+          <include name="test_Modifier"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC_04_Modifier_ProjetRedmine -->
+    </classes>
+  </test> <!-- Projet_RedmineTest(failed) -->
+</suite> <!-- Failed suite [Projet_RedmineSuite] -->

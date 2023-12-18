@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-18T12:22:24 HNE" name="Projet_RedmineSuite" finished-at="2023-12-18T12:23:20 HNE" duration-ms="56755">
+    <groups>
+    </groups>
+    <test started-at="2023-12-18T12:22:24 HNE" name="Projet_RedmineTest" finished-at="2023-12-18T12:23:20 HNE" duration-ms="56755">
+      <class name="testCases.TC_01_EnregistrerNouveauCompte">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_01_EnregistrerNouveauCompte@663c9e7a]" started-at="2023-12-18T12:23:03 HNE" name="setup" finished-at="2023-12-18T12:23:04 HNE" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Enregistrer_NouveauCompte()[pri:0, instance:testCases.TC_01_EnregistrerNouveauCompte@663c9e7a]" started-at="2023-12-18T12:23:04 HNE" name="test_Enregistrer_NouveauCompte" finished-at="2023-12-18T12:23:06 HNE" duration-ms="1291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Enregistrer_NouveauCompte -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_01_EnregistrerNouveauCompte@663c9e7a]" started-at="2023-12-18T12:23:06 HNE" name="tearDown" finished-at="2023-12-18T12:23:06 HNE" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_01_EnregistrerNouveauCompte -->
+      <class name="testCases.TC_03_CreationNouveauProjet_Redmine">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_03_CreationNouveauProjet_Redmine@202b0582]" started-at="2023-12-18T12:22:24 HNE" name="setup" finished-at="2023-12-18T12:22:58 HNE" duration-ms="33552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_NouveauProjet()[pri:0, instance:testCases.TC_03_CreationNouveauProjet_Redmine@202b0582]" started-at="2023-12-18T12:22:58 HNE" name="test_NouveauProjet" finished-at="2023-12-18T12:23:02 HNE" duration-ms="4434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_NouveauProjet -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_03_CreationNouveauProjet_Redmine@202b0582]" started-at="2023-12-18T12:23:02 HNE" name="tearDown" finished-at="2023-12-18T12:23:03 HNE" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_03_CreationNouveauProjet_Redmine -->
+      <class name="testCases.TC_05_Copier_ProjetRedmine">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_05_Copier_ProjetRedmine@53045c6c]" started-at="2023-12-18T12:23:14 HNE" name="setup" finished-at="2023-12-18T12:23:16 HNE" duration-ms="1940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Modifier()[pri:0, instance:testCases.TC_05_Copier_ProjetRedmine@53045c6c]" started-at="2023-12-18T12:23:16 HNE" name="test_Modifier" finished-at="2023-12-18T12:23:20 HNE" duration-ms="3667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Modifier -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_05_Copier_ProjetRedmine@53045c6c]" started-at="2023-12-18T12:23:20 HNE" name="tearDown" finished-at="2023-12-18T12:23:20 HNE" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_05_Copier_ProjetRedmine -->
+      <class name="testCases.TC_04_Modifier_ProjetRedmine">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_04_Modifier_ProjetRedmine@795509d9]" started-at="2023-12-18T12:23:09 HNE" name="setup" finished-at="2023-12-18T12:23:11 HNE" duration-ms="2014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Modifier()[pri:0, instance:testCases.TC_04_Modifier_ProjetRedmine@795509d9]" started-at="2023-12-18T12:23:11 HNE" name="test_Modifier" finished-at="2023-12-18T12:23:14 HNE" duration-ms="2852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Modifier -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_04_Modifier_ProjetRedmine@795509d9]" started-at="2023-12-18T12:23:14 HNE" name="tearDown" finished-at="2023-12-18T12:23:14 HNE" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_04_Modifier_ProjetRedmine -->
+      <class name="testCases.TC_02_ConnexionRedmine">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_02_ConnexionRedmine@19e4653c]" started-at="2023-12-18T12:23:06 HNE" name="setup" finished-at="2023-12-18T12:23:08 HNE" duration-ms="2114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ConnexionRedmine_Test()[pri:0, instance:testCases.TC_02_ConnexionRedmine@19e4653c]" started-at="2023-12-18T12:23:08 HNE" name="ConnexionRedmine_Test" finished-at="2023-12-18T12:23:09 HNE" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConnexionRedmine_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_02_ConnexionRedmine@19e4653c]" started-at="2023-12-18T12:23:09 HNE" name="tearDown" finished-at="2023-12-18T12:23:09 HNE" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_02_ConnexionRedmine -->
+    </test> <!-- Projet_RedmineTest -->
+  </suite> <!-- Projet_RedmineSuite -->
+</testng-results>

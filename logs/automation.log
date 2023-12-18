@@ -1,0 +1,473 @@
+11:03:08.691 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Début Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:03:08.845 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+11:03:09.974 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+11:03:12.566 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+11:03:13.704 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+11:03:13.716 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les données du projet
+11:03:16.824 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Creer
+11:03:16.979 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - validation du message attendu
+11:03:16.988 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Fin Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:03:24.114 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Debut test1: TC_01_EnregistrerNouveauCompte ***
+11:03:25.056 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le lien s'enregistrer
+11:03:25.063 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les données du client
+11:03:26.941 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+11:03:27.567 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+11:03:27.739 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+11:03:27.741 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Fin test1: TC_01_EnregistrerNouveauCompte ***
+11:03:34.306 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Début Test2 :TC_02_ConnexionRedmine ***
+11:03:35.109 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+11:03:35.110 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les données de connexion
+11:03:36.294 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+11:03:36.735 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+11:03:36.736 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+11:03:43.772 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Début Test4 :TC_04_Modifier_ProjetRedmine ***
+11:03:43.774 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les données de connexion
+11:03:44.727 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+11:03:45.681 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+11:03:46.606 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+11:03:46.608 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+11:03:49.301 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+11:03:51.367 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:03:51.532 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+11:04:29.098 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Début Test5 :TC_05_Copier_ProjetRedmine ***
+11:04:29.099 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les données de connexion
+11:04:30.159 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+11:04:31.116 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+11:04:31.923 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+11:04:34.248 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+11:04:36.268 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les données du projet
+11:04:38.803 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:04:38.976 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+11:04:38.977 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Fin Test5 :TC_05_Copier_ProjetRedmine ***
+11:16:52.898 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Début Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:16:53.069 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+11:16:54.050 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+11:16:56.771 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+11:16:57.891 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+11:16:57.901 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les données du projet
+11:17:00.732 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Creer
+11:17:00.953 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - validation du message attendu
+11:17:00.960 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Fin Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:17:07.734 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+11:17:08.839 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cli sur le lien s'enregistrer
+11:17:08.845 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les données du client
+11:17:10.563 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+11:17:11.208 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+11:17:11.379 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+11:17:11.380 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Fin test1: TC_01_EnregistrerNouveauCompte ***
+11:17:17.654 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Début Test2 :TC_02_ConnexionRedmine ***
+11:17:18.331 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+11:17:18.332 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les données de connexion
+11:17:19.741 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+11:17:19.952 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+11:17:19.953 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+11:17:26.560 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Début Test4 :TC_04_Modifier_ProjetRedmine ***
+11:17:26.561 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les données de connexion
+11:17:27.544 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+11:17:28.454 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+11:17:29.251 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+11:17:29.252 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+11:17:31.650 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+11:17:33.656 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:17:33.825 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+11:17:33.826 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Fin Test4 :TC_04_Modifier_ProjetRedmine ***
+11:17:40.058 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Début Test5 :TC_05_Copier_ProjetRedmine ***
+11:17:40.060 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les données de connexion
+11:17:41.005 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+11:17:41.917 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+11:17:42.751 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+11:17:45.310 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+11:17:47.403 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les données du projet
+11:17:49.245 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:17:49.400 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+11:17:49.401 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Fin Test5 :TC_05_Copier_ProjetRedmine ***
+11:19:55.521 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** D�but Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:19:55.652 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+11:19:56.671 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+11:19:59.205 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+11:20:00.425 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+11:20:00.440 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les donn�es du projet
+11:20:03.489 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Creer
+11:20:03.704 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - validation du message attendu
+11:20:03.714 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Fin Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:20:11.987 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+11:20:13.098 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cli sur le lien s'enregistrer
+11:20:13.109 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les donn�es du client
+11:20:15.122 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+11:20:15.777 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+11:20:15.999 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+11:20:16.000 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Fin test1: TC_01_EnregistrerNouveauCompte ***
+11:20:22.892 [main] INFO  testCases.TC_02_ConnexionRedmine - *** D�but Test2 :TC_02_ConnexionRedmine ***
+11:20:23.637 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+11:20:23.639 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les donn�es de connexion
+11:20:24.604 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+11:20:25.073 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+11:20:25.073 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+11:20:31.583 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** D�but Test4 :TC_04_Modifier_ProjetRedmine ***
+11:20:31.586 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les donn�es de connexion
+11:20:32.575 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+11:20:33.573 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+11:20:34.446 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+11:20:34.448 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+11:20:36.867 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+11:20:38.795 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:20:38.955 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+11:20:38.955 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Fin Test4 :TC_04_Modifier_ProjetRedmine ***
+11:20:45.152 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** D�but Test5 :TC_05_Copier_ProjetRedmine ***
+11:20:45.154 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les donn�es de connexion
+11:20:46.263 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+11:20:47.341 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+11:20:49.857 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+11:20:52.777 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+11:20:54.774 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les donn�es du projet
+11:20:57.207 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:20:57.563 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+11:20:57.563 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Fin Test5 :TC_05_Copier_ProjetRedmine ***
+11:22:11.769 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Début Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:22:11.823 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+11:22:12.397 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+11:22:14.139 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+11:22:14.665 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+11:22:14.670 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les données du projet
+11:22:25.121 [main] ERROR testCases.TC_03_CreationNouveauProjet_Redmine - Test failed
+11:22:27.773 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+11:22:28.107 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cli sur le lien s'enregistrer
+11:22:28.112 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les données du client
+11:22:28.637 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+11:22:28.940 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+11:22:29.002 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+11:22:31.436 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Début Test2 :TC_02_ConnexionRedmine ***
+11:22:31.675 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+11:22:31.678 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les données de connexion
+11:22:32.088 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+11:22:32.271 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+11:22:32.271 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+11:22:34.563 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Début Test4 :TC_04_Modifier_ProjetRedmine ***
+11:22:34.564 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les données de connexion
+11:22:34.958 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+11:22:35.314 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+11:22:35.605 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+11:22:35.605 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+11:22:36.491 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+11:22:37.213 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:22:37.268 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+11:22:39.849 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Début Test5 :TC_05_Copier_ProjetRedmine ***
+11:22:39.850 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les données de connexion
+11:22:40.281 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+11:22:40.627 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+11:22:40.919 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+11:22:41.778 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+11:22:42.670 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les données du projet
+11:22:43.424 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:22:43.473 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+11:33:16.188 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Début Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:33:16.214 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+11:33:16.558 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+11:33:17.733 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+11:33:18.105 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+11:33:18.107 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les données du projet
+11:33:28.442 [main] ERROR testCases.TC_03_CreationNouveauProjet_Redmine - Test failed
+11:33:30.539 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+11:33:30.780 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cli sur le lien s'enregistrer
+11:33:30.784 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les données du client
+11:33:31.230 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+11:33:31.494 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+11:33:31.542 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+11:33:33.674 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Début Test2 :TC_02_ConnexionRedmine ***
+11:33:33.855 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+11:33:33.855 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les données de connexion
+11:33:34.154 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+11:33:34.299 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+11:33:34.300 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+11:33:36.137 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Début Test4 :TC_04_Modifier_ProjetRedmine ***
+11:33:36.139 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les données de connexion
+11:33:36.504 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+11:33:36.805 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+11:33:37.085 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+11:33:37.086 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+11:33:37.833 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+11:33:38.442 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:33:38.477 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+11:33:40.502 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Début Test5 :TC_05_Copier_ProjetRedmine ***
+11:33:40.502 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les données de connexion
+11:33:40.801 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+11:33:41.118 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+11:33:41.363 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+11:33:42.101 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+11:33:42.854 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les données du projet
+11:33:43.446 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:33:43.481 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+11:41:31.136 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** DÃ©but Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:41:31.157 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+11:41:31.488 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+11:41:32.629 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+11:41:33.038 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+11:41:33.042 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les donnÃ©es du projet
+11:41:43.357 [main] ERROR testCases.TC_03_CreationNouveauProjet_Redmine - Test failed
+11:41:45.353 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+11:41:45.606 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cli sur le lien s'enregistrer
+11:41:45.608 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les donnÃ©es du client
+11:41:45.989 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+11:41:46.276 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+11:41:46.316 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+11:41:48.298 [main] INFO  testCases.TC_02_ConnexionRedmine - *** DÃ©but Test2 :TC_02_ConnexionRedmine ***
+11:41:48.465 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+11:41:48.465 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les donnÃ©es de connexion
+11:41:48.744 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+11:41:48.889 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+11:41:48.889 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+11:41:50.750 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** DÃ©but Test4 :TC_04_Modifier_ProjetRedmine ***
+11:41:50.751 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les donnÃ©es de connexion
+11:41:51.040 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+11:41:51.363 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+11:41:51.620 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+11:41:51.621 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+11:41:52.362 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+11:41:52.948 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:41:52.986 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+11:41:55.036 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** DÃ©but Test5 :TC_05_Copier_ProjetRedmine ***
+11:41:55.036 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les donnÃ©es de connexion
+11:41:55.330 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+11:41:55.661 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+11:41:55.911 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+11:41:56.675 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+11:41:57.439 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les donnÃ©es du projet
+11:41:58.006 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:41:58.042 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+11:54:06.596 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Début Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:54:06.619 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+11:54:06.934 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+11:54:08.092 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+11:54:08.514 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+11:54:08.517 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les données du projet
+11:54:09.264 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Creer
+11:54:09.379 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - validation du message attendu
+11:54:09.381 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Fin Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:54:11.168 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+11:54:11.399 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cli sur le lien s'enregistrer
+11:54:11.405 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les données du client
+11:54:11.794 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+11:54:12.055 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+11:54:12.099 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+11:54:12.099 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Fin test1: TC_01_EnregistrerNouveauCompte ***
+11:54:13.830 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Début Test2 :TC_02_ConnexionRedmine ***
+11:54:14.003 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+11:54:14.004 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les données de connexion
+11:54:14.288 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+11:54:14.420 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+11:54:14.420 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+11:54:16.164 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Début Test4 :TC_04_Modifier_ProjetRedmine ***
+11:54:16.164 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les données de connexion
+11:54:16.442 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+11:54:16.740 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+11:54:16.973 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+11:54:16.974 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+11:54:17.720 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+11:54:18.413 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:54:18.446 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+11:54:18.446 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Fin Test4 :TC_04_Modifier_ProjetRedmine ***
+11:54:20.206 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Début Test5 :TC_05_Copier_ProjetRedmine ***
+11:54:20.207 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les données de connexion
+11:54:20.505 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+11:54:20.825 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+11:54:21.071 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+11:54:21.730 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+11:54:22.479 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les données du projet
+11:54:23.063 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:54:23.103 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+11:54:23.103 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Fin Test5 :TC_05_Copier_ProjetRedmine ***
+11:56:02.865 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Début Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:56:02.898 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+11:56:03.291 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+11:56:04.524 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+11:56:04.947 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+11:56:04.950 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les données du projet
+11:56:15.317 [main] ERROR testCases.TC_03_CreationNouveauProjet_Redmine - Test failed
+11:56:17.343 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+11:56:17.614 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cli sur le lien s'enregistrer
+11:56:17.617 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les données du client
+11:56:18.013 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+11:56:18.287 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+11:56:18.328 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+11:56:48.166 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Début Test2 :TC_02_ConnexionRedmine ***
+11:56:48.326 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+11:56:48.327 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les données de connexion
+11:56:48.621 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+11:56:48.764 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+11:56:48.764 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+11:56:50.630 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Début Test4 :TC_04_Modifier_ProjetRedmine ***
+11:56:50.630 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les données de connexion
+11:56:50.925 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+11:56:51.248 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+11:56:51.532 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+11:56:51.532 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+11:56:52.251 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+11:56:52.848 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:56:52.885 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+11:56:54.828 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Début Test5 :TC_05_Copier_ProjetRedmine ***
+11:56:54.828 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les données de connexion
+11:56:55.114 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+11:56:55.426 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+11:56:55.667 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+11:56:56.344 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+11:56:57.124 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les données du projet
+11:56:57.848 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:56:57.882 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+11:59:29.479 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** DÃ©but Test3 :TC_03_CreationNouveauProjet_Redmine ***
+11:59:29.541 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+11:59:29.986 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+11:59:31.400 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+11:59:31.843 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+11:59:31.848 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les donnÃ©es du projet
+11:59:42.209 [main] ERROR testCases.TC_03_CreationNouveauProjet_Redmine - Test failed
+11:59:44.758 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+11:59:45.169 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cli sur le lien s'enregistrer
+11:59:45.176 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les donnÃ©es du client
+11:59:45.732 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+11:59:46.057 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+11:59:46.106 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+11:59:48.419 [main] INFO  testCases.TC_02_ConnexionRedmine - *** DÃ©but Test2 :TC_02_ConnexionRedmine ***
+11:59:48.643 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+11:59:48.643 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les donnÃ©es de connexion
+11:59:48.989 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+11:59:49.134 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+11:59:49.134 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+11:59:51.262 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** DÃ©but Test4 :TC_04_Modifier_ProjetRedmine ***
+11:59:51.262 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les donnÃ©es de connexion
+11:59:51.661 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+11:59:51.988 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+11:59:52.259 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+11:59:52.259 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+11:59:53.171 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+11:59:53.875 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:59:53.947 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+11:59:56.380 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** DÃ©but Test5 :TC_05_Copier_ProjetRedmine ***
+11:59:56.381 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les donnÃ©es de connexion
+11:59:56.776 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+11:59:57.124 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+11:59:57.402 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+11:59:58.285 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+11:59:59.132 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les donnÃ©es du projet
+11:59:59.847 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+11:59:59.897 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+12:22:58.169 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Début Test3 :TC_03_CreationNouveauProjet_Redmine ***
+12:22:58.253 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+12:22:59.074 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+12:23:00.722 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+12:23:01.334 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+12:23:01.338 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les données du projet
+12:23:02.352 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Creer
+12:23:02.565 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - validation du message attendu
+12:23:02.568 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Fin Test3 :TC_03_CreationNouveauProjet_Redmine ***
+12:23:04.911 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+12:23:05.238 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le lien s'enregistrer
+12:23:05.244 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les données du client
+12:23:05.830 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+12:23:06.135 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+12:23:06.199 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+12:23:06.199 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Fin test1: TC_01_EnregistrerNouveauCompte ***
+12:23:08.644 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Début Test2 :TC_02_ConnexionRedmine ***
+12:23:08.867 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+12:23:08.867 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les données de connexion
+12:23:09.234 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+12:23:09.401 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+12:23:09.402 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+12:23:11.760 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Début Test4 :TC_04_Modifier_ProjetRedmine ***
+12:23:11.760 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les données de connexion
+12:23:12.197 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+12:23:12.545 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+12:23:12.863 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+12:23:12.864 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+12:23:13.787 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+12:23:14.549 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+12:23:14.609 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+12:23:14.610 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Fin Test4 :TC_04_Modifier_ProjetRedmine ***
+12:23:16.916 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Début Test5 :TC_05_Copier_ProjetRedmine ***
+12:23:16.917 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les données de connexion
+12:23:17.314 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+12:23:17.661 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+12:23:18.000 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+12:23:18.914 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+12:23:19.755 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les données du projet
+12:23:20.512 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+12:23:20.581 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+12:23:20.581 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Fin Test5 :TC_05_Copier_ProjetRedmine ***
+12:24:31.631 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** D�but Test3 :TC_03_CreationNouveauProjet_Redmine ***
+12:24:31.692 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+12:24:32.294 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+12:24:33.639 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+12:24:34.259 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+12:24:34.267 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les donn�es du projet
+12:24:35.338 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Creer
+12:24:35.542 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - validation du message attendu
+12:24:35.546 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Fin Test3 :TC_03_CreationNouveauProjet_Redmine ***
+12:24:38.521 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+12:24:38.963 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le lien s'enregistrer
+12:24:38.968 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les donn�es du client
+12:24:39.671 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+12:24:40.005 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+12:24:40.064 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+12:24:40.064 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Fin test1: TC_01_EnregistrerNouveauCompte ***
+12:24:43.218 [main] INFO  testCases.TC_02_ConnexionRedmine - *** D�but Test2 :TC_02_ConnexionRedmine ***
+12:24:43.525 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+12:24:43.526 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les donn�es de connexion
+12:24:43.975 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+12:24:44.163 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+12:24:44.163 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+12:24:46.963 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** D�but Test4 :TC_04_Modifier_ProjetRedmine ***
+12:24:46.964 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les donn�es de connexion
+12:24:47.457 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+12:24:47.817 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+12:24:48.200 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+12:24:48.201 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+12:24:49.241 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+12:24:50.065 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+12:24:50.128 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+12:24:50.129 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Fin Test4 :TC_04_Modifier_ProjetRedmine ***
+12:24:53.074 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** D�but Test5 :TC_05_Copier_ProjetRedmine ***
+12:24:53.074 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les donn�es de connexion
+12:24:53.576 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+12:24:53.943 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+12:24:54.292 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+12:24:55.349 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+12:24:56.302 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les donn�es du projet
+12:24:57.160 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+12:24:57.226 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
+12:24:57.226 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Fin Test5 :TC_05_Copier_ProjetRedmine ***
+12:25:48.255 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - *** Début Test3 :TC_03_CreationNouveauProjet_Redmine ***
+12:25:48.326 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Fournir les informations de connexion
+12:25:48.806 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le bouton Connexion
+12:25:50.041 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Projets
+12:25:50.576 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - cliquer sur le lien Nouveau Projets
+12:25:50.577 [main] INFO  testCases.TC_03_CreationNouveauProjet_Redmine - Entrer les données du projet
+12:26:01.044 [main] ERROR testCases.TC_03_CreationNouveauProjet_Redmine - Test failed
+12:26:03.756 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - *** Start test1: TC_01_EnregistrerNouveauCompte ***
+12:26:04.133 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le lien s'enregistrer
+12:26:04.133 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer les données du client
+12:26:04.801 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - Entrer le mot de passe
+12:26:05.165 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - cliquer sur le bouton Enregistrer
+12:26:05.228 [main] INFO  testCases.TC_01_EnregistrerNouveauCompte - validation du message attendu
+12:26:08.235 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Début Test2 :TC_02_ConnexionRedmine ***
+12:26:08.585 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le lien de connexion
+12:26:08.585 [main] INFO  testCases.TC_02_ConnexionRedmine - Entrer les données de connexion
+12:26:08.983 [main] INFO  testCases.TC_02_ConnexionRedmine - cliquer sur le bouton Connexion
+12:26:09.164 [main] INFO  testCases.TC_02_ConnexionRedmine - validation du message attendu
+12:26:09.164 [main] INFO  testCases.TC_02_ConnexionRedmine - *** Fin Test2 :TC_02_ConnexionRedmine ***
+12:26:11.781 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - *** Début Test4 :TC_04_Modifier_ProjetRedmine ***
+12:26:11.782 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer les données de connexion
+12:26:12.362 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Connexion
+12:26:12.633 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Administration
+12:26:12.974 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le lien Projets
+12:26:12.975 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - Entrer le nom du projet
+12:26:14.051 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Appliquer
+12:26:14.838 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+12:26:14.890 [main] INFO  testCases.TC_04_Modifier_ProjetRedmine - validation du message attendu
+12:26:18.015 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - *** Début Test5 :TC_05_Copier_ProjetRedmine ***
+12:26:18.015 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Entrer les données de connexion
+12:26:18.496 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Connexion
+12:26:18.927 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Administration
+12:26:19.280 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le lien Projets
+12:26:20.226 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Copier
+12:26:21.193 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - Modifier les données du projet
+12:26:22.004 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - cliquer sur le bouton Sauvegarder
+12:26:22.073 [main] INFO  testCases.TC_05_Copier_ProjetRedmine - validation du message attendu
